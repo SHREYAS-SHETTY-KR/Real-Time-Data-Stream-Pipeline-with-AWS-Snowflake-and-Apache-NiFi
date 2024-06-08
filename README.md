@@ -42,7 +42,12 @@ This project demonstrates to build a robust and scalable data pipeline that can 
   </tr>
 </table>
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/blob/main/scripts/Real-Time%20Data%20Streaming%20-%20Snowflake%20-%20Brave%202024-06-07%2020-22-59.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
+![Alt Text](https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/blob/main/scripts/Real-Time%20Data%20Streaming%20-%20Snowflake%20-%20Brave%202024-06-07%2020-22-59.mp4)
 ## Project Execution Flow
 
 ### EC2 Setup
