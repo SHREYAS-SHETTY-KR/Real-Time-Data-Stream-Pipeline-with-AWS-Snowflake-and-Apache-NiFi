@@ -31,23 +31,21 @@ This project demonstrates to build a robust and scalable data pipeline that can 
 
 <table>
   <tr>
-    <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/3830766d-ccb7-4215-8c35-328deb696f78" alt="Screenshot 1" width="300"/></td>
+    <td><img src="https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/assets/79562771/ae3d9aa9-15e1-4293-b2ed-f9163c2d2060" alt="Screenshot 1" width="300"/></td>
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/1940ea98-c064-44a1-b599-7abe46e4badf" alt="Screenshot 2" width="300"/></td>
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/49d349d2-c137-41ba-bb69-434b272cb79e" alt="Screenshot 5" width="300"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/df523c33-0b70-4649-b1b8-24317a736d36" alt="Screenshot 3" width="300"/></td>
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/90d71b41-0e3b-4a9b-915a-a54b07744bde" alt="Screenshot 4" width="300"/></td>
-    <td><video width="300" controls><source src="URL_TO_YOUR_VIDEO_FILE" type="video/mp4">Your browser does not support the video tag.</video></td>
+    <td><img src="https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/assets/79562771/eb106e6b-ef58-4ffa-b511-17413680b33e" alt="Screenshot 4" width="300" height = "250"/></td>
+    
   </tr>
 </table>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/blob/main/scripts/Real-Time%20Data%20Streaming%20-%20Snowflake%20-%20Brave%202024-06-07%2020-22-59.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/assets/79562771/6acff7ff-16fe-45bb-bc0b-5d27c9feaec8
 
-![Alt Text](https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/blob/main/scripts/Real-Time%20Data%20Streaming%20-%20Snowflake%20-%20Brave%202024-06-07%2020-22-59.mp4)
+
 ## Project Execution Flow
 
 ### EC2 Setup
