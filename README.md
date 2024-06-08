@@ -36,7 +36,7 @@ This project demonstrates to build a robust and scalable data pipeline that can 
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/49d349d2-c137-41ba-bb69-434b272cb79e" alt="Screenshot 5" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/df523c33-0b70-4649-b1b8-24317a736d36" alt="Screenshot 3" width="300"/></td>
+    <td><img src="https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/assets/79562771/1cb9b26c-7e81-4377-a55b-011f8c8f4661" alt="Screenshot 3" width="300"/></td>
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/-Real-Time-Data-Analysis-with-AWS-Snowflake-and-NiFi/assets/79562771/90d71b41-0e3b-4a9b-915a-a54b07744bde" alt="Screenshot 4" width="300"/></td>
     <td><img src="https://github.com/SHREYAS-SHETTY-KR/Real-Time-Data-Stream-Pipeline-with-AWS-Snowflake-and-Apache-NiFi/assets/79562771/eb106e6b-ef58-4ffa-b511-17413680b33e" alt="Screenshot 4" width="300" height = "250"/></td>
     
